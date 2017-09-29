@@ -1,0 +1,8 @@
+{
+  "name": "Beicor",
+  "app_id": "c866c958",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
